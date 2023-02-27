@@ -1,4 +1,16 @@
-## Recursion
+## About
+Recursion is a fundamental concept in computer science and programming, and it is a common topic in technical interviews. Some of the most common recursive problems that are often asked in interviews include:
+
+Calculating the factorial of a number
+Finding the nth Fibonacci number
+Traversing a binary tree or graph
+Merging or sorting arrays using merge sort or quicksort
+Solving the Towers of Hanoi problem
+Generating all permutations of a set
+Solving the subset sum problem
+Searching for an element in a binary search tree
+Computing the power of a number using exponentiation
+Solving the maze or pathfinding problem
 ```
 /*factorial - !*/
 int fac(int n) {
